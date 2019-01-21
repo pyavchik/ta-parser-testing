@@ -7,7 +7,7 @@ You must have installed TrueAutomation client and Ruby actual version.
 * Clone the project
 
  ```
- git clone https://github.com/shapovalovei/trueautomation-testng.git
+ git clone https://github.com/stegrial/ta-parser-testing.git
  ```
 
 * Init the project to use: `trueautomation init` command
